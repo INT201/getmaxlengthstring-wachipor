@@ -1,6 +1,6 @@
-const { template } = require('@babel/core')
+// const { template } = require('@babel/core')
 
 function getMaxLengthString(arrayOfString) {
-  //code here
+  return getMaxLengthString 
 }
-module.exports = getMaxLengthString
+// module.exports = getMaxLengthString
